@@ -8,6 +8,7 @@ tag:
 author: 
   name: "QweRez"
   url: "https://github.com/qwerezon/"
+editor: "MrERROR"
 ---
 
 <AutoCatalog />
