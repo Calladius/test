@@ -5,7 +5,7 @@ category:
   - Особенности
 tag:
   - Авто Сбор
-author: "Schvis", "Chloe"
+author: Schvis, Chloe
 order: 6
 ---
 
