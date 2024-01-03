@@ -6,8 +6,7 @@ category:
 tag:
   - Старт
 author: QweRez, Schvis
-editor:
-  name: "EditorName"
+editor: "MrERROR"
 ---
 
 <AutoCatalog />
