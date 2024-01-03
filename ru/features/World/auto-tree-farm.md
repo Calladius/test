@@ -5,7 +5,7 @@ category:
   - Особенности
 tag:
   - Автоматический сбор дерева
-author: "Schvis", "Chloe"
+author: Schvis, Chloe
 order: 9
 ---
 ::: Информация только для спонсоров :::
