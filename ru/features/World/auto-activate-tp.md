@@ -5,7 +5,7 @@ category:
   - Особенности
 tag:
   - Автоматическая активация телепорта
-author: "Schvis", "Chloe"
+author: Schvis, Chloe
 order: 1
 ---
 ::: Спонсор :::
