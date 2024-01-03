@@ -5,7 +5,7 @@ category:
   - Особенности
 tag:
   - Автоматический поиск
-author: "Schvis", "Chloe"
+author: Schvis, Chloe
 order: 7
 ---
 
